@@ -1,11 +1,17 @@
-### Hi there 👋
+## Hi, I'm Amanda ## 
 
+- ⚡ I'm currently working at a Product Design role with some knowledge in Front End Development;
+- 🌱 On de tech side, I’m currently learning HTML, CSS and JavaScript;
+- 📝 I'm graduated in Management but I am transitioning from careers because I love Design and Tech;
+- ✨ I try to help people who are beginning on this journey.</p>
+
+Thats it.
 <!--
 **aabatiista/aabatiista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Product Design with some knowledge ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
