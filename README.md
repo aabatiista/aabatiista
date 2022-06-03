@@ -3,7 +3,7 @@
 - ⚡ I'm currently working at a <strong> Product Design </strong> role with some knowledge in Front End Development;
 - 🌱 On the tech side, I’m currently learning HTML5, CSS3 and JavaScript;
 - 📝 I'm graduated in Management but I am transitioning from careers because I love Design and Tech;
-- ✨ I try to help people who are beginning on this journey.
+- ✨ I try to learn the best way I can and put it into practice.
 
 <!--
 **aabatiista/aabatiista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
